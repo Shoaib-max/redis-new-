@@ -1,0 +1,5 @@
+com\example\redis\RedisApplication.class
+com\example\redis\controller\Mycontroller.class
+com\example\redis\config\redis.class
+com\example\redis\dao\redisjava.class
+com\example\redis\dao\redisjavaImpl.class
